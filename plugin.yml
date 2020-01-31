@@ -1,0 +1,9 @@
+name: ElytraLaunch
+version: 1.0.0
+author: Brook Stone
+
+main: me.brook.elytralaunch.ElytraLaunch
+
+commands:
+  elytrareload:
+    description: Reloads the config.yml

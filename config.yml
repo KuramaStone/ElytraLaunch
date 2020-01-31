@@ -1,0 +1,12 @@
+Settings:
+   launch:
+## This is the message sent to the player when they launch!
+      launchMessage: '&bwoosh!'
+## The directionalMultiplier is how fast the player will be thrown in the direction they're facing
+      directionalMultiplier: 3.0
+## This is an additional speed boost applied to them. I don't recommend editing anything besides the Y value.
+      additionalVector:
+         x: 0
+## Increasing the Y value will increase their upward momentum when deploying the elytra.
+         y: 5.0
+         z: 0
